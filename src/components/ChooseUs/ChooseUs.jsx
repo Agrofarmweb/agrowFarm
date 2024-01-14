@@ -27,12 +27,12 @@ const ChooseUs = () => {
 
 
 
-
+   <a href={youtubeVideoUrl} target="_blank" rel="noopener noreferrer">
             <img
               src={PlayImg}
               alt="play_img"
               className="absolute w-[2.4rem] top-[42%] left-[44%] z-10 cursor-pointer min450:left-[47%] min450:top-[44%] "
-            />
+            /> </a>
             <span className="bg-white cursor-pointer p-14 absolute rounded-full top-[38.7%] left-[39.9%]"></span>
           </div>
 
