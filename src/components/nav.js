@@ -13,7 +13,9 @@ export default function Nav()
   return (
     
     <div className='outer_div'>
-         <p>Agro<span className='fm'>FarmMachinery.</span></p>
+          <a href="/">
+         <p>Agro<span className='fm'>Farm
+         Machinery.</span></p></a>
         <div>
         <ul className={isopen ?"ul_list" :"ul_list1"}>
             <li>
