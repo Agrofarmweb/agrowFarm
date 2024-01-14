@@ -25,9 +25,10 @@ function PricingBox({ img, price }) {
             </span>
           </p>
           {/* text */}
-          <div className="flex flex-col text-[16px] font-medium text-center gap-8 text-[#646464] ">
-            <p>Farm Machinery </p>
-            <p>Market Price : Rs. 38000 /-</p>
+          <div className="flex flex-col text-[16px] font-medium text-center gap-8 text-[#0a64bc] ">
+          <p>Farm Machinery </p>
+          <p>Market Price : <span className="line-through">Rs. 38000 /-</span></p>
+          <p>35% discount</p>
 
           </div>
 
