@@ -97,10 +97,7 @@ body {
     transition: all 0.2s;
   }
   
-  .card-item-div:hover {
-    background-image: url('../src/images/logo/logo.png');
-    color: white;
-  }
+
   
   
   
