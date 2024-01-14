@@ -45,10 +45,7 @@ function Featured() {
                   Sustainable India G20 for Agritech needs.What we provide will have a good impact
           on your company but will not damage the
                   environment.Technological progress is something
-        that we cannot stop. We must use
-              technology to make life easier in the
-          world. However, don't let technology
-            use us to rule the world.
+        that we cannot stop.
 
 
                 </p>
