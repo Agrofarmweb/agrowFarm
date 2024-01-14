@@ -1,4 +1,5 @@
 import Footer from "../components/Footer/Footer";
+import MainButton from "../components/MainButton";
 
 function Login() {
   return (
@@ -81,12 +82,15 @@ function Login() {
             ></textarea>
             
             
-            <button
-              type="submit"
-              className="text-white bg-[#4caf50] w-fit py-[15px] px-[30px] font-bold text-[14px] uppercase self-center mt-6"
-              >
-              submit now
-            </button>
+           <MainButton
+                color={`!text-white`}
+                bg={`bg-[#4CAF50]`}
+                cN="about-cta"
+                arrowColor={`!text-white`}
+                hover={`hover:bg-[#FFC107]`}
+                text="Submit"
+                goTo="https://forms.gle/3kG9gPigxcJGrqzy5"
+              />
             
             
           </form>
