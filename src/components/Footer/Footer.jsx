@@ -71,14 +71,14 @@ Rooted in Excellence, Cultivating Tomorrow – AgroFarms, Your Partner in Agricu
               <span className="top-[33px] absolute w-[7rem] h-[4px] bg-[#4caf50]"></span>
 
               <p className="text-[16px]  text-[#646464] font-bold">
-                Youtube:
+                Whatsapp
               </p>
               <p className="text-[16px] text-[#646464] font-medium">
-              Agrofarm
+               +91-9948053104
               </p>
-              <p className="text-[16px] text-[#646464] font-bold">Telegram:</p>
+              <p className="text-[16px] text-[#646464] font-bold">Gmail</p>
               <p className="text-[16px] text-[#646464] font-medium">
-              Agrofarm
+             sskmuntaz210@gmail.com
               </p>
               
             </div>
